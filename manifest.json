@@ -1,0 +1,10 @@
+﻿{
+  "Name": "AutomaticStardew",
+  "Author": "NashGoldd",
+  "Version": "1.0.0",
+  "Description": "Automatic mine in stardew valley",
+  "UniqueID": "NashGoldd.AutomaticStardew",
+  "EntryDll": "AutomaticStardew.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
